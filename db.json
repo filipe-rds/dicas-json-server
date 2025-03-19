@@ -1,9 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "dicas": [
+    // Economia Doméstica (20 dicas)
+    { "id": 1, "texto": "Sempre tenha um fundo de emergência com pelo menos 6 meses do seu custo de vida." },
+    { "id": 2, "texto": "Pague suas contas em dia para evitar juros e multas desnecessárias." },
+    { "id": 3, "texto": "Compre à vista sempre que possível para obter descontos e evitar parcelamentos caros." },
+    { "id": 4, "texto": "Corte gastos supérfluos, como assinaturas de serviços que você não usa regularmente." },
+    { "id": 5, "texto": "Faça uma lista de compras antes de ir ao supermercado e evite compras por impulso." },
+    { "id": 6, "texto": "Compare preços antes de comprar, especialmente em itens de alto valor." },
+    { "id": 7, "texto": "Evite o uso do cheque especial, pois suas taxas de juros são extremamente altas." },
+    { "id": 8, "texto": "Negocie dívidas com credores para reduzir juros e prazos de pagamento." },
+    { "id": 9, "texto": "Invista em eficiência energética em casa, como lâmpadas LED e eletrodomésticos eficientes." },
+    { "id": 10, "texto": "Planeje refeições semanais para reduzir desperdício de alimentos e gastos com delivery." },
+    { "id": 11, "texto": "Ensine educação financeira para seus filhos desde cedo." },
+    { "id": 12, "texto": "Revise contratos de serviços como internet, TV a cabo e telefone para garantir que está pagando o melhor preço." },
+    { "id": 13, "texto": "Evite compras por impulso: espere 24 horas antes de comprar algo não planejado." },
+    { "id": 14, "texto": "Aprenda a consertar coisas em casa para evitar gastos com serviços profissionais simples." },
+    { "id": 15, "texto": "Use cupons e programas de fidelidade para economizar em compras do dia a dia." },
+    { "id": 16, "texto": "Planeje férias com antecedência para aproveitar promoções de passagens e hospedagens." },
+    { "id": 17, "texto": "Evite o consumismo: pergunte-se se você realmente precisa de algo antes de comprar." },
+    { "id": 18, "texto": "Negocie descontos em compras grandes, como móveis e eletrodomésticos." },
+    { "id": 19, "texto": "Tenha um controle rigoroso de gastos com cartão de crédito para evitar dívidas." },
+    { "id": 20, "texto": "Avalie seu orçamento mensalmente e ajuste conforme necessário." },
+
+    // Investimentos (20 dicas)
+    { "id": 21, "texto": "Comece a investir cedo para aproveitar o poder dos juros compostos." },
+    { "id": 22, "texto": "Diversifique seus investimentos para reduzir riscos." },
+    { "id": 23, "texto": "Invista em educação financeira antes de aplicar seu dinheiro." },
+    { "id": 24, "texto": "Priorize investimentos de baixo custo, como ETFs e fundos indexados." },
+    { "id": 25, "texto": "Evite tomar decisões de investimento com base em emoções ou notícias de curto prazo." },
+    { "id": 26, "texto": "Aprenda a diferença entre renda fixa e renda variável para escolher o melhor para seu perfil." },
+    { "id": 27, "texto": "Invista regularmente, mesmo que sejam pequenas quantias, para criar disciplina." },
+    { "id": 28, "texto": "Tenha uma reserva de emergência antes de começar a investir." },
+    { "id": 29, "texto": "Conheça seu perfil de investidor: conservador, moderado ou arrojado." },
+    { "id": 30, "texto": "Evite investimentos prometendo retornos altos e rápidos - eles geralmente são golpes." },
+    { "id": 31, "texto": "Reavalie sua carteira de investimentos a cada 6 meses ou após grandes mudanças na vida." },
+    { "id": 32, "texto": "Invista em ativos internacionais para diversificar geograficamente." },
+    { "id": 33, "texto": "Aprenda sobre impostos em investimentos para evitar surpresas desagradáveis." },
+    { "id": 34, "texto": "Use o Tesouro Direto para começar a investir em títulos públicos de forma simples." },
+    { "id": 35, "texto": "Invista em conhecimento: leia livros e acompanhe fontes confiáveis sobre finanças." },
+    { "id": 36, "texto": "Evite alavancagem excessiva em investimentos, especialmente se for iniciante." },
+    { "id": 37, "texto": "Considere investir em imóveis para diversificar sua carteira e gerar renda passiva." },
+    { "id": 38, "texto": "Aprenda a calcular o custo-benefício de cada investimento antes de aplicar." },
+    { "id": 39, "texto": "Invista em ações de empresas que você conhece e confia, após análise fundamentalista." },
+    { "id": 40, "texto": "Tenha paciência: investimentos de longo prazo tendem a gerar melhores resultados." },
+
+    // Empreendedorismo na Carreira (20 dicas)
+    { "id": 41, "texto": "Trate sua carreira como um negócio: você é o CEO de si mesmo." },
+    { "id": 42, "texto": "Invista em habilidades que aumentem seu valor no mercado, como liderança e comunicação." },
+    { "id": 43, "texto": "Construa uma marca pessoal forte: seja reconhecido por suas habilidades e resultados." },
+    { "id": 44, "texto": "Networking é essencial: cultive relacionamentos profissionais que possam abrir portas no futuro." },
+    { "id": 45, "texto": "Aprenda a negociar salários e benefícios - seu trabalho tem valor, não subestime isso." },
+    { "id": 46, "texto": "Diversifique suas fontes de renda: considere freelances, consultorias ou projetos paralelos." },
+    { "id": 47, "texto": "Esteja sempre atualizado com as tendências do seu setor para se manter relevante." },
+    { "id": 48, "texto": "Desenvolva habilidades digitais: tecnologia é um diferencial em qualquer área." },
+    { "id": 49, "texto": "Crie um plano de carreira com metas claras de curto, médio e longo prazo." },
+    { "id": 50, "texto": "Invista em mentoria: aprenda com quem já trilhou o caminho que você deseja seguir." },
+    { "id": 51, "texto": "Seja proativo: identifique problemas na sua empresa e proponha soluções antes de ser solicitado." },
+    { "id": 52, "texto": "Aprenda a vender suas ideias: comunicação persuasiva é uma habilidade valiosa." },
+    { "id": 53, "texto": "Participe de eventos e conferências do seu setor para expandir conhecimentos e contatos." },
+    { "id": 54, "texto": "Desenvolva resiliência: falhas fazem parte do crescimento profissional." },
+    { "id": 55, "texto": "Invista em certificações e cursos que aumentem sua credibilidade e competência." },
+    { "id": 56, "texto": "Tenha um portfólio atualizado: mostre resultados concretos do seu trabalho." },
+    { "id": 57, "texto": "Aprenda a gerenciar seu tempo: produtividade é essencial para o crescimento profissional." },
+    { "id": 58, "texto": "Esteja aberto a mudanças: adapte-se rapidamente a novos desafios e oportunidades." },
+    { "id": 59, "texto": "Cultive uma mentalidade de crescimento: veja desafios como oportunidades de aprendizado." },
+    { "id": 60, "texto": "Pense globalmente: explore oportunidades de trabalho remoto ou em outros países." }
+  ]
 }
