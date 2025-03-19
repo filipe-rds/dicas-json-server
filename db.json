@@ -1,6 +1,6 @@
 {
   "dicas": [
-    // Economia Doméstica (20 dicas)
+    
     { "id": 1, "texto": "Sempre tenha um fundo de emergência com pelo menos 6 meses do seu custo de vida." },
     { "id": 2, "texto": "Pague suas contas em dia para evitar juros e multas desnecessárias." },
     { "id": 3, "texto": "Compre à vista sempre que possível para obter descontos e evitar parcelamentos caros." },
@@ -21,8 +21,6 @@
     { "id": 18, "texto": "Negocie descontos em compras grandes, como móveis e eletrodomésticos." },
     { "id": 19, "texto": "Tenha um controle rigoroso de gastos com cartão de crédito para evitar dívidas." },
     { "id": 20, "texto": "Avalie seu orçamento mensalmente e ajuste conforme necessário." },
-
-    // Investimentos (20 dicas)
     { "id": 21, "texto": "Comece a investir cedo para aproveitar o poder dos juros compostos." },
     { "id": 22, "texto": "Diversifique seus investimentos para reduzir riscos." },
     { "id": 23, "texto": "Invista em educação financeira antes de aplicar seu dinheiro." },
@@ -43,8 +41,6 @@
     { "id": 38, "texto": "Aprenda a calcular o custo-benefício de cada investimento antes de aplicar." },
     { "id": 39, "texto": "Invista em ações de empresas que você conhece e confia, após análise fundamentalista." },
     { "id": 40, "texto": "Tenha paciência: investimentos de longo prazo tendem a gerar melhores resultados." },
-
-    // Empreendedorismo na Carreira (20 dicas)
     { "id": 41, "texto": "Trate sua carreira como um negócio: você é o CEO de si mesmo." },
     { "id": 42, "texto": "Invista em habilidades que aumentem seu valor no mercado, como liderança e comunicação." },
     { "id": 43, "texto": "Construa uma marca pessoal forte: seja reconhecido por suas habilidades e resultados." },
@@ -65,5 +61,6 @@
     { "id": 58, "texto": "Esteja aberto a mudanças: adapte-se rapidamente a novos desafios e oportunidades." },
     { "id": 59, "texto": "Cultive uma mentalidade de crescimento: veja desafios como oportunidades de aprendizado." },
     { "id": 60, "texto": "Pense globalmente: explore oportunidades de trabalho remoto ou em outros países." }
+    
   ]
 }
